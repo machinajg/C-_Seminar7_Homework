@@ -1,0 +1,15 @@
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/bin/Debug/net6.0/2d_array_double_numbers
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/bin/Debug/net6.0/2d_array_double_numbers.deps.json
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/bin/Debug/net6.0/2d_array_double_numbers.runtimeconfig.json
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/bin/Debug/net6.0/2d_array_double_numbers.dll
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/bin/Debug/net6.0/2d_array_double_numbers.pdb
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/obj/Debug/net6.0/2d_array_double_numbers.csproj.AssemblyReference.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/obj/Debug/net6.0/2d_array_double_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/obj/Debug/net6.0/2d_array_double_numbers.AssemblyInfoInputs.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/obj/Debug/net6.0/2d_array_double_numbers.AssemblyInfo.cs
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/obj/Debug/net6.0/2d_array_double_numbers.csproj.CoreCompileInputs.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/obj/Debug/net6.0/2d_array_double_numbers.dll
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/obj/Debug/net6.0/refint/2d_array_double_numbers.dll
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/obj/Debug/net6.0/2d_array_double_numbers.pdb
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/obj/Debug/net6.0/2d_array_double_numbers.genruntimeconfig.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_double_numbers/obj/Debug/net6.0/ref/2d_array_double_numbers.dll
