@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_column_average/2d_column_average.csproj": {}
+  },
+  "projects": {
+    "/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_column_average/2d_column_average.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_column_average/2d_column_average.csproj",
+        "projectName": "2d_column_average",
+        "projectPath": "/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_column_average/2d_column_average.csproj",
+        "packagesPath": "/Users/REN-SCH-sergeevajg/.nuget/packages/",
+        "outputPath": "/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_column_average/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/REN-SCH-sergeevajg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

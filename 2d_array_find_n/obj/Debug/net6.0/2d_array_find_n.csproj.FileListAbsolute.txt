@@ -1,0 +1,15 @@
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/bin/Debug/net6.0/2d_array_find_n
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/bin/Debug/net6.0/2d_array_find_n.deps.json
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/bin/Debug/net6.0/2d_array_find_n.runtimeconfig.json
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/bin/Debug/net6.0/2d_array_find_n.dll
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/bin/Debug/net6.0/2d_array_find_n.pdb
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/obj/Debug/net6.0/2d_array_find_n.csproj.AssemblyReference.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/obj/Debug/net6.0/2d_array_find_n.GeneratedMSBuildEditorConfig.editorconfig
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/obj/Debug/net6.0/2d_array_find_n.AssemblyInfoInputs.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/obj/Debug/net6.0/2d_array_find_n.AssemblyInfo.cs
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/obj/Debug/net6.0/2d_array_find_n.csproj.CoreCompileInputs.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/obj/Debug/net6.0/2d_array_find_n.dll
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/obj/Debug/net6.0/refint/2d_array_find_n.dll
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/obj/Debug/net6.0/2d_array_find_n.pdb
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/obj/Debug/net6.0/2d_array_find_n.genruntimeconfig.cache
+/Users/REN-SCH-sergeevajg/Documents/C#_Seminars/Seminar_7_Homework/2d_array_find_n/obj/Debug/net6.0/ref/2d_array_find_n.dll
