@@ -13,7 +13,7 @@ void FillArray(int[,] Number)     //Заполняем массив случай
     {
         for (int n = 0; n < Number.GetLength(1); n++)
         {
-            Number[m,n] = new Random().Next(-1,10);  
+            Number[m,n] = new Random().Next(-1,11);  
         }            
     }
 }
