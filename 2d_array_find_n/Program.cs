@@ -32,23 +32,18 @@ void PrintArray(int[,] printnumb)       //Выводим массив на эк�
         Console.WriteLine();
     }
 }
-
-void Findnum(int[,] findnum)
+int[,] Findnum(int[,] findnum)
 {
     for (int m = 0; m < findnum.GetLength(0); m++)
     {
         for (int n = 0; n < findnum.GetLength(1); n++)
             {
             if (A<=findnum.GetLength(0) && B<=findnum.GetLength(1))
-                {
-                    findnum[m,n]=findnum[A,B];
-                }
-            
-
-            }
-                    
+                findnum[m,n]=findnum[A,B];     
+            }                
     }
-    Console.Write($"{findnum[A,B]} - есть в массиве");
+Console.Write($"{findnum[A,B]} - есть в массиве");
+return findnum;
 }
 int[,] array = new int[7, 8];
 FillArray(array);
