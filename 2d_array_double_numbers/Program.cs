@@ -4,8 +4,6 @@
 // 1 -3,3 8 -9,9
 // 8 7,8 -7,1 9
 
-double[,] array = new double[5,4]; 
-
 void FillArray(double[,] Number)   //Заполняем массив случайными вещественными цифрами
 {
     for (int m = 0; m < Number.GetLength(0); m++)
@@ -21,12 +19,12 @@ void PrintArray(double[,] printnumb)       //Выводим массив на э
     {
         for (int n = 0; n < printnumb.GetLength(1); n++)
         {
-            double pri = Math.Round(printnumb[m,n],1);
-            Console.Write($"{pri} ");
+            Console.Write($"|{Math.Round(printnumb[m,n],1)}| ");
         }
     Console.WriteLine();
     }    
 }
+double[,] array = new double[5,4]; 
 FillArray(array);
 PrintArray(array);
 
